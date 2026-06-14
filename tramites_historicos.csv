@@ -1,0 +1,51 @@
+tipo_tramite,dias_espera_promedio,documentos_completos,area_asignada,prioridad_asignada
+Licencia para Farmacia,15,1,Desarrollo Económico,Alta
+Certificado de Soltería,3,1,Registro Civil,Baja
+Permiso de Urbanización,45,0,Obras Públicas,Alta
+Registro de Cambio de Estado Civil,6,1,Registro Civil,Media
+Autorización para Venta de Artesanías,10,1,Desarrollo Económico,Media
+Certificado de Compatibilidad Urbana,19,1,Desarrollo Urbano,Alta
+Permiso para Presentación Teatral,5,1,Cultura,Baja
+Licencia para Gimnasio,17,1,Desarrollo Económico,Alta
+Constancia de Vecindad,4,1,Registro Civil,Baja
+Permiso de Infraestructura Pública,38,0,Obras Públicas,Alta
+Registro de Rectificación de Nombre,8,1,Registro Civil,Media
+Autorización para Tienda Minorista,12,1,Desarrollo Económico,Media
+Certificado de Habilitación Comercial,21,1,Desarrollo Urbano,Alta
+Permiso para Festival Gastronómico,7,1,Cultura,Media
+Licencia para Hotel,22,1,Desarrollo Económico,Alta
+Constancia de Domicilio Habitual,2,1,Registro Civil,Baja
+Permiso de Renovación Urbana,33,0,Obras Públicas,Alta
+Registro de Actualización Familiar,5,1,Registro Civil,Baja
+Autorización para Stand Comercial,9,1,Desarrollo Económico,Media
+Certificado de Ordenamiento Territorial,24,1,Desarrollo Urbano,Alta
+Permiso para Concurso Cultural,6,1,Cultura,Baja
+Licencia para Centro Médico,28,1,Desarrollo Económico,Alta
+Constancia de Arraigo,7,1,Registro Civil,Media
+Permiso de Obras Hidráulicas,41,0,Obras Públicas,Alta
+Registro de Modificación de Datos,4,1,Registro Civil,Baja
+Autorización para Comercio Electrónico Local,11,1,Desarrollo Económico,Media
+Certificado de Uso Comercial,18,1,Desarrollo Urbano,Alta
+Permiso para Muestra Artística,5,1,Cultura,Baja
+Licencia para Panadería,13,1,Desarrollo Económico,Media
+Constancia de Referencia Domiciliaria,3,1,Registro Civil,Baja
+Permiso de Rehabilitación de Vías,37,0,Obras Públicas,Alta
+Registro de Nacionalización,20,1,Registro Civil,Media
+Autorización para Venta de Comida Rápida,14,1,Desarrollo Económico,Media
+Certificado de Planeamiento Urbano,26,1,Desarrollo Urbano,Alta
+Permiso para Actividad Musical,8,1,Cultura,Media
+Licencia para Librería,10,1,Desarrollo Económico,Media
+Constancia de Convivencia Familiar,4,1,Registro Civil,Baja
+Permiso de Instalación de Redes,29,0,Obras Públicas,Alta
+Registro de Reinscripción,9,1,Registro Civil,Media
+Autorización para Feria Tecnológica,12,1,Desarrollo Económico,Media
+Certificado de Desarrollo Urbano,23,1,Desarrollo Urbano,Alta
+Permiso para Taller Cultural,6,1,Cultura,Baja
+Licencia para Cafetería,11,1,Desarrollo Económico,Media
+Constancia de Residencia Permanente,5,1,Registro Civil,Baja
+Permiso de Adecuación Estructural,35,0,Obras Públicas,Alta
+Registro de Filiación,14,1,Registro Civil,Media
+Autorización para Mercado Itinerante,16,1,Desarrollo Económico,Alta
+Certificado de Expansión Urbana,31,1,Desarrollo Urbano,Alta
+Permiso para Campeonato Local,7,1,Cultura,Media
+Licencia para Centro de Capacitación,19,1,Desarrollo Económico,Alta
