@@ -62,7 +62,7 @@ if enviado:
             
             # Hacemos la petición a tu API local (FastAPI)
             try:
-                respuesta = requests.post("http://127.0.0.1:8000/procesar_y_notificar/", json=payload)
+                respuesta = requests.post("https://portalyau.onrender.com/procesar_y_notificar/", json=payload)
                 
                 if respuesta.status_code == 200:
                     datos_api = respuesta.json()
